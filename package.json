@@ -4,7 +4,7 @@
   "description": "Automatización de pruebas API con Newman",
   "main": "index.js",
   "scripts": {
-    "test": "newman run API\\ APITareas.postman_collection.json -e Entornodepruebas.postman_environment.json"
+    "test": "newman run APITareas.postman_collection.json -e Entornodepruebas.postman_environment.json"
   },
   "author": "",
   "license": "ISC",
